@@ -2,7 +2,8 @@ package laioffer;
 
 public class SubClass extends SuperClass{
 	public static void staticMethod() {
-		System.out.println("sub");
+		//System.out.println("sub");
+		System.out.println("---------wulalalalalalalla--------");
 	}
 	public static void main(String[] args) {
 		SuperClass superWithSuper = new SuperClass();
